@@ -3,4 +3,4 @@ This is git world
 
 Whoops this is a bug -> This is resolved!
 
-This is new bug 
+This is new bug -> This is resolved!
